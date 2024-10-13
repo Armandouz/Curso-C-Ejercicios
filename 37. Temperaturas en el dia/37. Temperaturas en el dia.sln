@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "37. Temperaturas en el dia", "37. Temperaturas en el dia\37. Temperaturas en el dia.vcxproj", "{DD613544-1B09-476B-B03E-735603A6D722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD613544-1B09-476B-B03E-735603A6D722}.Debug|x64.ActiveCfg = Debug|x64
+		{DD613544-1B09-476B-B03E-735603A6D722}.Debug|x64.Build.0 = Debug|x64
+		{DD613544-1B09-476B-B03E-735603A6D722}.Debug|x86.ActiveCfg = Debug|Win32
+		{DD613544-1B09-476B-B03E-735603A6D722}.Debug|x86.Build.0 = Debug|Win32
+		{DD613544-1B09-476B-B03E-735603A6D722}.Release|x64.ActiveCfg = Release|x64
+		{DD613544-1B09-476B-B03E-735603A6D722}.Release|x64.Build.0 = Release|x64
+		{DD613544-1B09-476B-B03E-735603A6D722}.Release|x86.ActiveCfg = Release|Win32
+		{DD613544-1B09-476B-B03E-735603A6D722}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C48E65FF-6037-4760-AECE-A25C6F1AE4AE}
+	EndGlobalSection
+EndGlobal
