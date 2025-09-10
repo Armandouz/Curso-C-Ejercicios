@@ -1,0 +1,24 @@
+// 70. Comparar cadenas funcion strcmp.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
+//
+
+#include <iostream>
+#include <conio.h>
+#include <string.h>
+using namespace std;
+
+int main()
+{
+    char palabra1[] = "Hola";
+    char palabra2[] = "hola";
+
+
+    if (strcmp(palabra1, palabra2) ==0)
+    {
+        cout << "Ambas cadenas son iguales \n";
+    }
+
+
+    return 0;
+}
+
+
