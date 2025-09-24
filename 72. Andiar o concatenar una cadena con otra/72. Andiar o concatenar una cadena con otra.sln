@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "72. Andiar o concatenar una cadena con otra", "72. Andiar o concatenar una cadena con otra\72. Andiar o concatenar una cadena con otra.vcxproj", "{41A9DD85-6A42-450C-AB1E-006E143BA98E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41A9DD85-6A42-450C-AB1E-006E143BA98E}.Debug|x64.ActiveCfg = Debug|x64
+		{41A9DD85-6A42-450C-AB1E-006E143BA98E}.Debug|x64.Build.0 = Debug|x64
+		{41A9DD85-6A42-450C-AB1E-006E143BA98E}.Debug|x86.ActiveCfg = Debug|Win32
+		{41A9DD85-6A42-450C-AB1E-006E143BA98E}.Debug|x86.Build.0 = Debug|Win32
+		{41A9DD85-6A42-450C-AB1E-006E143BA98E}.Release|x64.ActiveCfg = Release|x64
+		{41A9DD85-6A42-450C-AB1E-006E143BA98E}.Release|x64.Build.0 = Release|x64
+		{41A9DD85-6A42-450C-AB1E-006E143BA98E}.Release|x86.ActiveCfg = Release|Win32
+		{41A9DD85-6A42-450C-AB1E-006E143BA98E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42393292-6850-4EFB-B217-78C0EC9568E3}
+	EndGlobalSection
+EndGlobal
