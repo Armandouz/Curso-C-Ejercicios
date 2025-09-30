@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "80. Transformar una cadena a números - función atoi", "80. Transformar una cadena a números - función atoi\80. Transformar una cadena a números - función atoi.vcxproj", "{4613DD5E-48FF-4965-A4D0-30F765A44527}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4613DD5E-48FF-4965-A4D0-30F765A44527}.Debug|x64.ActiveCfg = Debug|x64
+		{4613DD5E-48FF-4965-A4D0-30F765A44527}.Debug|x64.Build.0 = Debug|x64
+		{4613DD5E-48FF-4965-A4D0-30F765A44527}.Debug|x86.ActiveCfg = Debug|Win32
+		{4613DD5E-48FF-4965-A4D0-30F765A44527}.Debug|x86.Build.0 = Debug|Win32
+		{4613DD5E-48FF-4965-A4D0-30F765A44527}.Release|x64.ActiveCfg = Release|x64
+		{4613DD5E-48FF-4965-A4D0-30F765A44527}.Release|x64.Build.0 = Release|x64
+		{4613DD5E-48FF-4965-A4D0-30F765A44527}.Release|x86.ActiveCfg = Release|Win32
+		{4613DD5E-48FF-4965-A4D0-30F765A44527}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFCA36A2-1AA5-47A6-B277-7621CDBBC9D3}
+	EndGlobalSection
+EndGlobal
